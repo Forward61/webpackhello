@@ -1,0 +1,9 @@
+html,body {
+  background-color: #F5F5DE;
+}
+.box1{
+  width: 100px;
+  height: 100px;
+  background: url('./images/hello.jpg') no-repeat;
+  background-size: 100% 100%;
+}
